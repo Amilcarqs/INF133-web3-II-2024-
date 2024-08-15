@@ -1,0 +1,17 @@
+
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    height: 100px;
+}
+tr td {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.clase1{
+    display: flex;
+    justify-content: space-evenly;    
+}
