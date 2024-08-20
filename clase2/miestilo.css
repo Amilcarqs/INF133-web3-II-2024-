@@ -1,0 +1,11 @@
+.cabecera{
+    background-color: #2853DC; width:1024x; height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+#menu{
+    background-color: bisque; width:224px; height: 200px; float: left;
+}
+.contenido{
+    background-color: chocolate; width:800px; height: 400px; float: left;
+}
