@@ -1,0 +1,7 @@
+En Xammp
+- config --> PHP(php.ini) 
+- buscar session.auto_start
+- cambiar el valor de 0 a 1
+- guardar y salir
+ 
+- En Xammp Stop y luego iniciar nuevamente
